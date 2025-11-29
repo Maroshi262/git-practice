@@ -1,2 +1,3 @@
 # git-practice
-This is update from GitHub.
+
+This line is added in feature branch.
